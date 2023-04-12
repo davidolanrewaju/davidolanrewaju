@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hello, I'm David! 👋👨🏿‍💻
 
 <!--
-**dave-prog/dave-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dave-prog/dave-prog** is a ✨ _special_ ✨ repository because it+98s `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
