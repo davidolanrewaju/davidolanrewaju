@@ -11,9 +11,14 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
 ## Contact Me
 <a href="#https://twitter.com/ola_dayve"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/gray" /></a>
 <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/gray" /></a>
+<a href="mailto:davidolanrewaju538@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/gray" /></a>
 
 ## Skillset
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark)](https://skillicons.dev)
+<a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/gray" /></a>
+<a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/gray" /></a>
+<a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/gray" /></a>
+<a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/react/gray" /></a>
+<a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/figma/gray" /></a>
 
 <!-- ## My StatCard
 <!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dave-prog&show_icons=true&theme=github_dark_dimmed)](https://github.com/dave-prog/github-readme-stats) -->
