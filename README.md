@@ -1,5 +1,7 @@
 # Hello, I'm David! 👋👨🏿‍💻
 
+I'm a skilled Front-End Developer with a passion for creating visually stunning and responsive user interfaces. My proficiency in HTML, CSS, Bootstrap, and JavaScript allows me to produce high-quality code that meets project requirements and exceeds client expectations. Aspiring to be a Full-Stack Developer, I'm dedicated to continuous learning and staying up-to-date with industry trends and best practices. I collaborate with teams to create user-friendly and aesthetically pleasing applications that provide an exceptional user experience. Currently seeking new job opportunities to contribute to exciting projects and further develop my skills. With a drive to succeed and a desire to innovate, I'm ready to take on new challenges and make meaningful contributions to the tech industry.
+
 <!--
 **dave-prog/dave-prog** is a ✨ _special_ ✨ repository because it+98s `README.md` (this file) appears on your GitHub profile.
 
