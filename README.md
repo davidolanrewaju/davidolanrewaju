@@ -9,8 +9,8 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
 - 💼 Seeking my first job as a developer
 
 ## Contact Me
-<a href="#https://twitter.com/ola_dayve"><img height="25" width="25" src="https://cdn.simpleicons.org/twitter/gray" /></a>
-<a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/gray" /></a>
+<a href="https://twitter.com/ola_dayve"><img height="25" width="25" src="https://cdn.simpleicons.org/twitter/gray" /></a>
+<a href="https://www.linkedin.com/in/olanrewaju-david/"><img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/gray" /></a>
 <a href="mailto:davidolanrewaju538@gmail.com"><img height="25" width="25" src="https://cdn.simpleicons.org/gmail/gray" /></a>
 
 ## Skillset
