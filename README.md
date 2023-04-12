@@ -9,16 +9,20 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
 - 💼 Seeking my first job as a developer
 
 ## Contact Me
-<a href="https://twitter.com/ola_dayve"><img height="25" width="25" src="https://cdn.simpleicons.org/twitter/gray" /></a>
-<a href="https://www.linkedin.com/in/olanrewaju-david/"><img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/gray" /></a>
-<a href="mailto:davidolanrewaju538@gmail.com"><img height="25" width="25" src="https://cdn.simpleicons.org/gmail/gray" /></a>
+<div style="display:flex; justify-content: space-between; align-items: center;">
+  <a href="https://twitter.com/ola_dayve"><img height="25" width="25" src="https://cdn.simpleicons.org/twitter/gray" /></a>
+  <a href="https://www.linkedin.com/in/olanrewaju-david/"><img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/gray" /></a>
+  <a href="mailto:davidolanrewaju538@gmail.com"><img height="25" width="25" src="https://cdn.simpleicons.org/gmail/gray" /></a>
+</div>
 
 ## Skillset
-<a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/html5/gray" /></a>
-<a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/css3/gray" /></a>
-<a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray" /></a>
-<a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/react/gray" /></a>
-<a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/figma/gray" /></a>
+<div style="display:flex; justify-content: space-between; align-items: center;">
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/html5/gray" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/css3/gray" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/react/gray" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/figma/gray" /></a>
+</div>
 
 <!-- ## My StatCard
 <!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dave-prog&show_icons=true&theme=github_dark_dimmed)](https://github.com/dave-prog/github-readme-stats) -->
