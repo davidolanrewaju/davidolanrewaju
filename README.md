@@ -10,20 +10,20 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
 
 ## Contact Me
 <div style="display:flex; justify-content: space-between; align-items: center;">
-  <a href="https://twitter.com/ola_dayve"><img height="25" width="25" src="https://cdn.simpleicons.org/twitter/gray" /></a>
-  <a href="https://www.linkedin.com/in/olanrewaju-david/"><img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/gray" /></a>
-  <a href="mailto:davidolanrewaju538@gmail.com"><img height="25" width="25" src="https://cdn.simpleicons.org/gmail/gray" /></a>
+  <a href="https://twitter.com/ola_dayve"><img height="25" width="25" src="https://cdn.simpleicons.org/twitter/" /></a>
+  <a href="https://www.linkedin.com/in/olanrewaju-david/"><img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/" /></a>
+  <a href="mailto:davidolanrewaju538@gmail.com"><img height="25" width="25" src="https://cdn.simpleicons.org/gmail/" /></a>
 </div>
 
 ## Skillset
 <div style="display:flex; justify-content: space-between; align-items: center;">
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/html5/gray" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/css3/gray" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap/gray" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/react/gray" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/jest/gray" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/figma/gray" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/html5/" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/css3/" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/javascript/" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap/" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/react/" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/jest/" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/figma/" /></a>
 </div>
 
 <!-- ## My StatCard
