@@ -22,6 +22,7 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
   <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray" /></a>
   <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap/gray" /></a>
   <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/react/gray" /></a>
+  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/jest/gray" /></a>
   <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/figma/gray" /></a>
 </div>
 
