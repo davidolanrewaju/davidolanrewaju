@@ -2,20 +2,26 @@
 
 I'm a skilled Front-End Developer with a passion for creating visually stunning and responsive user interfaces. With a drive to succeed and a desire to innovate, I'm ready to take on new challenges and make meaningful contributions to the tech industry.
 
+
 ## About Me
+
 - 💪🏽Aspiring to be a full stack developer
 - 🛠 Skilled UI designer
 - 🌱 Currently learning React
 - 💼 Seeking my first job as a developer
+  
 
 ## Contact Me
+
 <div style="display:flex; justify-content: space-between; align-items: center;">
   <a href="https://twitter.com/ola_dayve"><img height="25" width="25" src="https://cdn.simpleicons.org/twitter/" /></a>
   <a href="https://www.linkedin.com/in/olanrewaju-david/"><img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/" /></a>
   <a href="mailto:davidolanrewaju538@gmail.com"><img height="25" width="25" src="https://cdn.simpleicons.org/gmail/" /></a>
 </div>
 
+
 ## Skillset
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,jest,react,redux,vite,tailwind,next,figma" />
