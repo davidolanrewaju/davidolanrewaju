@@ -17,14 +17,18 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
 
 ## Skillset
 <div style="display:flex; justify-content: space-between; align-items: center;">
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/html5/" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/css3/" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/javascript/" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap/" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/react/" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/redux/" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/jest/" /></a>
-  <a href="#"><img height="25" width="25" src="https://cdn.simpleicons.org/figma/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/html5/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/css3/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/javascript/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/bootstrap/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/react/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/redux/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/jest/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/figma/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/webpack/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/vite/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/tailwind-css/" /></a>
+  <a href="#"><img height="30" width="30" src="https://cdn.simpleicons.org/next.js/" /></a>
 </div>
 
 <!-- ## My StatCard
