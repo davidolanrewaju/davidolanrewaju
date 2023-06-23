@@ -22,7 +22,7 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
 
 ## Skillset
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,jest,react,redux,vite,tailwind,next,figma" />
   </a>
