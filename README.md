@@ -21,10 +21,22 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
 
 
 ## Skillset
-
+### Frontend Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,jest,react,redux,vite,tailwind,next,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,vite,tailwind,next" />
+  </a>
+</p>
+### Backend Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+</p>
+### Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,webpack,jest,figma" />
   </a>
 </p>
 
