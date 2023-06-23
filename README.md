@@ -16,9 +16,7 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
 </div>
 
 ## Skillset
-<div style="display:flex; justify-content: space-between; align-items: center;">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,jest,react,redux,vite,tailwind,next,figma&perline=5)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,jest,react,redux,vite,tailwind,next,figma&perline=5)](https://skillicons.dev)
 
 <!-- ## My StatCard
 <!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dave-prog&show_icons=true&theme=github_dark_dimmed)](https://github.com/dave-prog/github-readme-stats) -->
