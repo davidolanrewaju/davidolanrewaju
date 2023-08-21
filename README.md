@@ -24,7 +24,7 @@ I'm a skilled Front-End Developer with a passion for creating visually stunning 
 ### Frontend Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,vite,tailwind,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,vite, typescript,tailwind,next" />
   </a>
 </p>
 
